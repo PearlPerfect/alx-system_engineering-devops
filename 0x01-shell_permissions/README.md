@@ -12,4 +12,9 @@ TASK 10: A script that sets the mode of the file hello the same as olleh’s mod
 TASK 11: A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 TASK 12: A script that creates a directory called my_dir with permissions 751 in the working directory.
 TASK 13: A script that changes the group owner to school for the file hello. The file hello will be in the working directory
-TASK 14:  A script that changes the owner to vincent and the group owner to staff for all the files. 
+TASK 14:  A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory. 
+TASK 15: A script that changes the owner and the group owner of _hello to vincent and staff respectively.
+The file _hello is in the working directory
+The file _hello is a symbolic link
+TASK 16: A script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
+TASK 17: a script that will play the StarWars IV episode in the terminal.
