@@ -16,5 +16,4 @@ TASK 14:  A script that changes the owner to vincent and the group owner to staf
 TASK 15: A script that changes the owner and the group owner of _hello to vincent and staff respectively.
 The file _hello is in the working directory
 The file _hello is a symbolic link
-TASK 16: A script that changes the owner of the file hello to betty only if it is owned by the user guillaume. The file hello will be in the working directory
-TASK 17: a script that will play the StarWars IV episode in the terminal.
+TASK 16: A script that changes the owner of a file.
