@@ -18,3 +18,4 @@ TASK 13: A script that takes a list of words as input and prints only words that
 Input format: One line, one word
 Output format: One line, one word
 Words should be sorted.
+TASK 14: Display lines containing the pattern “root” from the file /etc/passwd.
