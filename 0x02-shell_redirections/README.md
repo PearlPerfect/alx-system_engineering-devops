@@ -10,3 +10,7 @@ TASK 10: A script that deletes all the regular files (not the directories) with 
 TASK 11: A script that counts the number of directories and sub-directories in the current directory.
 The current and parent directories should not be taken into account
 Hidden directories should be counted.
+TASK 12: A script that displays the 10 newest files in the current directory.
+Requirements:
+One file per line
+Sorted from the newest to the oldest
