@@ -4,4 +4,5 @@ TASK 2: Add /action to the PATH. /action.
 TASK 3: Create a script that counts the number of directories in the PATH.
 TASK 4: Create a script that lists environment variables.
 TASK 5: Create a script that lists all local variables and environment variables, and functions.
+TASK 6: Create a script that creates a new local variable.
 
