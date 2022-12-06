@@ -25,3 +25,5 @@ TASK 17: Display all the lines in the file /etc/passwd that do not contain the p
 TASK 18: Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 Include capital letters as well.
 TASK 19: Replace all characters A and c from input to Z and e respectively.
+TASK 20: A script that removes all letters c and C from input.
+
