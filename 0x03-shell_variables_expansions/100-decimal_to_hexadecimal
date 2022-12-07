@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bashh
 printf "%x\n" $DECIMAL       (dec to hex)
