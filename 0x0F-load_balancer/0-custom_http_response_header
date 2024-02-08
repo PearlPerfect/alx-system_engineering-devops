@@ -10,7 +10,7 @@ apt-get -y install nginx
 
 mkdir -p /var/www/html
 touch /var/www/html/index.html
-echo "Welcom to Laby IT World!" > /var/www/html/index.html
+echo "Welcome to Devops sever configuration IT another day!" > /var/www/html/index.html
 touch /var/www/html/404.html
 echo "Ceci n'est pas une page" > /var/www/html/404.html
 
